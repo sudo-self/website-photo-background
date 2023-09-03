@@ -1,5 +1,5 @@
 # website-photo-background
-## CSS website photo background 
+## set inside index.html with the <style> tag
 <!DOCTYPE html>
 <header>
 
