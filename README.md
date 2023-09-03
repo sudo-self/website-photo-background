@@ -1,5 +1,5 @@
 # website-photo-background
-CSS photo background
+CSS photo background or Color background with RGB
 <!DOCTYPE html>
 <header>
 
