@@ -1,5 +1,5 @@
 # website-photo-background
-CSS photo background or Color background with RGB
+## CSS website photo background 
 <!DOCTYPE html>
 <header>
 
@@ -11,9 +11,5 @@ CSS photo background or Color background with RGB
                     background-attachment: fixed;
                 }
     </style> 
-        <style>
-            body {
-                background-color:  rgb(43, 41, 40);
-            }
-        </style> 
+
 </head>
